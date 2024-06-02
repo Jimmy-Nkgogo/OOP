@@ -15,5 +15,6 @@ namespace Inheritance
         {
             Console.WriteLine("Object was duplicated");
         }
+
     }
 }
